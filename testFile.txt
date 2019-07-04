@@ -1,0 +1,3 @@
+New file for Git testing
+
+This is test file.
